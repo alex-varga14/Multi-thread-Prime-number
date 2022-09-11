@@ -1,7 +1,6 @@
-// File: detectingPrimes.cpp
 // Author: Alexander Varga
 // date: 16/11/2021
-#include "detectPrimes.h"
+#include "prime_num_detect.h"
 #include <iostream>
 #include <vector>
 #include <cmath>
